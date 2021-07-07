@@ -1,4 +1,4 @@
-from inkprint import InkPrinter
+from inkprint.inkprint import InkPrinter
 
 
 def main():
